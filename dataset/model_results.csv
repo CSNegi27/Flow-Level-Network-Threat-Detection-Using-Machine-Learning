@@ -1,0 +1,5 @@
+,Accuracy,Precision,Recall,F1-Score,Train Time
+Decision Tree,33.86,33.63,33.86,33.63,0.16
+Random Forest,34.01,33.83,34.01,33.91,8.16
+KNN,41.15,39.71,41.15,39.47,0.08
+XGBoost,49.18,42.84,49.18,40.96,0.97
